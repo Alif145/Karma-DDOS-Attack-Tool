@@ -30,6 +30,20 @@ Team Bd Cyber Ninja Offical CEO or Admin I Am Devloper This Tool I Hope like My 
 
 ## How To Use This Tool
 
+You must use Python 3.9 or higher
+
+git clone https://github.com/Alif145/Karma-DDOS-Attack-Tool
+
+Install Python3 modules
+ - pip3 install -r requirements.txt  or  pip install -r requirements.txt
+Install Chrome (or update it lastest version)
+ - wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+ - apt-get install ./google-chrome-stable_current_amd64.deb
+
+OR
+ - python3 setup.py
+
+-------------------------------------------------------------------------------------------------------------------------------------------
   [Layer 7]
  - cfb     | Bypass CF attack
  - pxcfb   | Bypass CF attack with proxy
