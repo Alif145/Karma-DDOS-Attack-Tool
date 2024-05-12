@@ -44,7 +44,7 @@ OR
  - python3 setup.py
 
 -------------------------------------------------------------------------------------------------------------------------------------------
-  [Layer 7]
+  [Layer 7] Usage
  - cfb     | Bypass CF attack
  - pxcfb   | Bypass CF attack with proxy
  - cfreq   | Bypass CF UAM, CAPTCHA, BFM, etc,, with request
@@ -61,8 +61,8 @@ OR
  - soc     | Socket Attack
  - pxraw   | Proxy Request Attack
  - pxsoc   | Proxy Socket Attack
- 
-  [Layer 4]
+ ------------------------------------------------------------------------------------------------------------------------------------------
+  [Layer 4] Usage
   -udp     | UDP Attack
   -tcp     | TCP Attack
   
