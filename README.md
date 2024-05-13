@@ -32,7 +32,7 @@ Team Bd Cyber Ninja Offical CEO or Admin I Am Devloper This Tool I Hope like My 
 
 You must use Python 3.9 or higher
 
-git clone https://github.com/Alif145/Karma-DDOS-Attack-Tool
+ - git clone https://github.com/Alif145/Karma-DDOS-Attack-Tool
 
 Install Python3 modules
  - pip3 install -r requirements.txt  or  pip install -r requirements.txt
