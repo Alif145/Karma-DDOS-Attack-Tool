@@ -5,10 +5,12 @@ print("""
 \x1b[38;2;255;20;147m╠╩╗ ╠═╣ ╠╦╝ ║║║ ╠═╣
 \x1b[38;2;255;20;147m╩ ╩ ╩ ╩ ╩╚═ ╩ ╩ ╩ ╩\x1b[38;2;0;255;58m>DDOS ATTack TOol(setup)
 --------------------------------------------------------
- Author Name    = AH AlIF HASSAN JOY
- Team Name      = TEAM BD CYBER NINJA
- Website URL    = https://aliffreelancer.website2.me/ 
- Github account = https://github.com/Alif145
+ Author Name      = ZEROX UCHICHA
+ Team Name        = TEAM BD CYBER NINJA BLACK HAT MUSLIM CYBER TEAM
+ Website URL      = https://WWW.teambdcyberninja.com
+ Github account   = https://github.com/Alif145
+ Telegram Channel = t.me/tbcnofc
+ Telegram contact = @Zerox Uchicha
  =======================================================
 """) 
 

@@ -816,12 +816,12 @@ def help():
 ##############################################################################################
 def credit():
     stdout.write("\x1b[38;2;0;236;250m════════════════════════════════════════════════════════════╗\n")
-    stdout.write("\x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX   +"Developer     "+Fore.RED+": \x1b[38;2;0;255;189mZerox Uchicha     \n")
+    stdout.write("\x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX   +"Developer     "+Fore.RED+": \x1b[38;2;0;255;189mAlif Hassan Joy     \n")
     stdout.write("\x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX   +"UI Design     "+Fore.RED+": \x1b[38;2;0;255;189mTeam Bd Cyber Ninja不\n")
-    stdout.write("\x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX   +"Methods/Tools "+Fore.RED+": \x1b[38;2;0;255;189mLayer4/Layer7      \n")
+    stdout.write("\x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX   +"Methods/Tools "+Fore.RED+": \x1b[38;2;0;255;189mAlif Hassan Joy      \n")
     stdout.write("\x1b[38;2;0;236;250m════════════════════════════════════════════════════════════╝   \n")
     stdout.write("\n")    
-##############################################################################################B
+##############################################################################################
 def layer7():
     clear()
     stdout.write("                                                                                         \n")
@@ -889,7 +889,7 @@ def title():
     stdout.write("             "+Fore.LIGHTCYAN_EX+"╔═════════╩═════════════════════════════════╩═════════╗\n")
     stdout.write("             "+Fore.LIGHTCYAN_EX+"║ "+Fore.LIGHTWHITE_EX   +"        Welcome To The Main Screen Of Karma    "+Fore.LIGHTCYAN_EX  +"     ║\n")
     stdout.write("             "+Fore.LIGHTCYAN_EX+"║ "+Fore.LIGHTWHITE_EX   +"          Type [help] to see the Commands      "+Fore.LIGHTCYAN_EX +"     ║\n")
-    stdout.write("             "+Fore.LIGHTCYAN_EX+"║ "+Fore.LIGHTWHITE_EX   +"      Contact Dev - Telegram @Zerox Uchicha  "+Fore.LIGHTCYAN_EX +"     ║\n")
+    stdout.write("             "+Fore.LIGHTCYAN_EX+"║ "+Fore.LIGHTWHITE_EX   +"      Contact Dev - Telegram @  "+Fore.LIGHTCYAN_EX +"     ║\n")
     stdout.write("             "+Fore.LIGHTCYAN_EX+"╚═════════════════════════════════════════════════════╝\n")
     stdout.write("\n")
 ##############################################################################################
